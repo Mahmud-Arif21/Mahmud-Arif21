@@ -4,7 +4,7 @@
 -->
 
 # 👋 Hi, I’m **Abdullahil Mahmud Arif**  
-**Associate Robotics Engineer** @ Next Solution Lab · Dhaka, Bangladesh
+**IoT Engineer** @ Drip Irrigation BD Ltd. · Dhaka, Bangladesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@abdullahil--mahmud-blue?logo=linkedin)](https://www.linkedin.com/in/abdullahil-mahmud/)  
 [![Email](https://img.shields.io/badge/Email-a.m.arif642@gmail.com-green?logo=gmail)](mailto:a.m.arif642@gmail.com)
